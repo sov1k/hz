@@ -1,0 +1,2 @@
+s=input("Введите числа:")
+print(sum(map(int,s.split(' '))))
